@@ -1,4 +1,8 @@
+.Container {
+    height: 100%;
+}
+
 .Input {
-    font-size: 24pt;
-    margin: .5em;
+    display: block;
+    width: 80%;
 }
